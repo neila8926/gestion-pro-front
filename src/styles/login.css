@@ -1,0 +1,23 @@
+.app-login{
+
+    background: #002E6E;
+    
+}
+.formulario{
+    background: #fff;
+    padding: 30px;
+    color: #444;
+    border-top: 0;
+    color: #666;
+    border-radius: 10px;
+    outline: medium none;
+    border-color: #000022;
+    box-shadow: 0px 0px 20px #000022;
+}
+.ingresar{
+    background-color: #6DB54B;
+    border-color: #6DB54B;
+}
+.btn-primary {
+    width: 100%;
+}
